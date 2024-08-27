@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Smart Tasks</string>
+    <string name="no_due_date">No Due Date</string>
+    <string name="due_date">Due date</string>
+    <string name="days_left">Days left</string>
+    <string name="task_details">Task Details</string>
+    <string name="go_back">Go back</string>
+    <string name="today">" Today"</string>
+    <string name="next_day_day_is">Next Day. Day is {%1$s}</string>
+    <string name="previous_day_day_is">Previous Day. Day is {%1$s}</string>
+    <string name="smiley_face">" Smiley Face"</string>
+    <string name="no_tasks_for_today">No tasks for today!</string>
+    <string name="smart_tasks_logo">Smart Tasks Logo</string>
+    <string name="can_t_resolve">Can\'t resolve</string>
+    <string name="resolved">Resolved</string>
+    <string name="unresolved">Unresolved</string>
+    <string name="resolve">Resolve</string>
+</resources>
